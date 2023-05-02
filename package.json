@@ -1,0 +1,34 @@
+{
+  "name": "@d-hussar/commitlint-config",
+  "version": "1.0.0",
+  "description": "An open source collection of commitlint config used by d-hussar",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/d-hussar/commitlint-config.git"
+  },
+  "keywords": [
+    "commitlint",
+    "config",
+    "codestyle",
+    "conventional-commits"
+  ],
+  "files": [
+    "inde.js",
+    "LICENSE",
+    "package.json",
+    "README.md"
+  ],
+  "author": "Dmitry Gusarov <dmitry.hussar@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/d-hussar/commitlint-config/issues"
+  },
+  "homepage": "https://github.com/d-hussar/commitlint-config#readme",
+  "engines": {
+    "node": ">=14"
+  }
+}
